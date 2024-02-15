@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhardwaj</h1>
-<h3 align="center">A passionate Software and web developer from NIT kurukshetra</h3>
+<h3 align="center">A passionate Software developer from NIT kurukshetra</h3>
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me anything about ** Computer Science**
 
-- 📫 How to reach me **bhardwajaditya394@gmail.com**
+- 📫 How to reach me **bhardwajaditya394@gmail.com/12113012@nitkkr.ac.in**
+- Currently working at Tetrahedron Manufacturing Services Pvt Ltd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
